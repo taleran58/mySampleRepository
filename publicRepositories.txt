@@ -1,0 +1,2 @@
+https://github.com/CreateJS/EaselJS.git
+git://github.com/facebook/facebook-ios-sdk.git
